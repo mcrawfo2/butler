@@ -1,4 +1,4 @@
-module github.com/mlabouardy/butler
+module github.com/mcrawfo2/butler
 
 go 1.13
 
